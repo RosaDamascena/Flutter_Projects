@@ -1,16 +1,8 @@
 # financialapp
 
-A new Flutter project.
+## 모바일 지갑 앱 만들기
 
-## Getting Started
+### 클론 코딩을 통해 Flutter 사용법 익히기
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 실행 모습
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-12 at 05 15 49](https://user-images.githubusercontent.com/95911613/211908990-e0eea1c8-3af1-4fff-a933-352dfe4afbbb.png)
